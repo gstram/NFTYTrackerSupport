@@ -3,13 +3,15 @@
 Track all your NFTs in one place. 
 Supports 
 
-### Markdown
+### Screenshots
+
+![Screenshot1](https://github.com/gstram/NFTYTrackerSupport/blob/gh-pages/Images/Image1.png)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
-
+![Screenshot1](https://github.com/gstram/NFTYTrackerSupport/blob/gh-pages/Images/Image1.png)
 # Images
 ![Image](Images/Image1.png)
 ## Header 2
