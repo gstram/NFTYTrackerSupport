@@ -64,11 +64,11 @@ footer_text_color                         : "#666666"
 
 
 
--features
+features                                  :
 
-  -title
-   description
-   Having trouble with the app? Email support@nftytracker.com
+  - title                                 : Support
+    description                           : Having trouble with the app? Email support@nftytracker.com
+    fontawesome_icon_name                 : magic
 
 
 
