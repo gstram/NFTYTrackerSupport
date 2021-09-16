@@ -469,7 +469,7 @@ nav > ul li a:active {
 } 
 
 .screenshots {
-	grid-area: 2 / 1 / 2 / 4;
+	grid-area:c;
 	display: flex;
 	flex: 0 1 auto;
 	align-content: flex-start;
@@ -482,7 +482,7 @@ nav > ul li a:active {
 // Feature List
 
 .features {
-	grid-area: c;
+	grid-area: d;
 	display: flex;
 	flex: 0 1 auto;
 	align-content: flex-start;
