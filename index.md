@@ -10,7 +10,7 @@ Having trouble with the app? Email support@nftytracker.com
 
 ### Screenshots
 
-![Screenshot1](/Images/Image1.png)
-![Screenshot2](/Images/Image2.png)
-![Screenshot3](/Images/Image3.png)
+![Screenshot1](/Images/Image1.png | width=100)
+![Screenshot2](/Images/Image2.png | width=100)
+![Screenshot3](/Images/Image3.png | width=100)
 
